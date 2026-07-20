@@ -7,6 +7,8 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20us-26A5E4?logo=telegram&logoColor=white)](https://t.me/lovecordoff)
 [![License](https://img.shields.io/badge/license-GPL%20v3-a855f7)](./LICENSE)
+[![Discord Server](https://img.shields.io/badge/Discord-Join%20Server-f472b6?logo=discord&logoColor=white)](https://discord.gg/TSt7kWKTrs)
+
 
 ---
 
