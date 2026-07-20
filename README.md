@@ -83,7 +83,7 @@ Lovecord wouldn't exist without [Equicord](https://github.com/Equicord/Equicord)
 
 ### Special Thanks
 A massive thank you to the owner of **lovecord**, with whom we are proudly partnered. They have been incredibly helpful in brainstorming, sharing ideas, and collaborating on plugins. Our smooth and constructive exchanges have been invaluable, and we want to highlight their exemplary, minimalist work that very few can match. 
-➡️ [Check out lovecord here]([https://github.com/LovelySkid/lovecord/])
+➡️ [Check out lovecord here](https://github.com/LovelySkid/lovecord/)
 
 ---
 
