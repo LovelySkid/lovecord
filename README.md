@@ -1,5 +1,5 @@
 ﻿﻿<div align="center">
-  <img src="https://lovecord.gg/image.png" width="96" height="96" alt="Lovecord Logo">
+  <img src="icon.png" width="96" height="96" alt="Lovecord Logo">
 
 # Lovecord
 
@@ -7,8 +7,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20us-26A5E4?logo=telegram&logoColor=white)](https://t.me/lovecordoff)
 [![License](https://img.shields.io/badge/license-GPL%20v3-a855f7)](./LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows-3b82f6.svg?logo=windows\&logoColor=white)](https://source.lovecord.gg/lovecord/lovecord)
-[![Website](https://img.shields.io/badge/website-lovecord.gg-5865F2?logo=googlechrome\&logoColor=white)](https://lovecord.gg)
 
 ---
 
@@ -75,7 +73,7 @@ pnpm uninject
 
 Source code:
 
-https://source.lovecord.gg/lovecord/lovecord
+[https://github.com/LovelySkid/lovecord/]
 
 ---
 
@@ -85,7 +83,7 @@ Lovecord wouldn't exist without [Equicord](https://github.com/Equicord/Equicord)
 
 ### Special Thanks
 A massive thank you to the owner of **lovecord**, with whom we are proudly partnered. They have been incredibly helpful in brainstorming, sharing ideas, and collaborating on plugins. Our smooth and constructive exchanges have been invaluable, and we want to highlight their exemplary, minimalist work that very few can match. 
-➡️ [Check out lovecord here](https://github.com/ImHisako/lovecord)
+➡️ [Check out lovecord here]([https://github.com/LovelySkid/lovecord/])
 
 ---
 
