@@ -1,0 +1,16 @@
+﻿/* Stealth Mode - hide Lovecord plugin UI (but NOT settings access) */
+
+/* Plugin buttons: header bar, channel toolbar, chat bar, user area */
+body.lovecord-stealth .vc-header-bar-btns,
+body.lovecord-stealth .vc-channel-toolbar-btns,
+body.lovecord-stealth .vc-chat-bar-btns,
+body.lovecord-stealth .vc-user-area-btns,
+
+/* Titlebar injected elements */
+body.lovecord-stealth #lovecord-titlebar-btn,
+body.lovecord-stealth #lovecord-titlebar-link-style,
+
+/* LovecordAI nav button */
+body.lovecord-stealth .nai-nav-item {
+    display: none !important;
+}
