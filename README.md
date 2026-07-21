@@ -51,7 +51,7 @@ npm install -g pnpm
 ### Clone & Build
 
 ```bash
-git clone https://source.lovecord.gg/lovecord/lovecord.git
+git clone https://github.com/LovelySkid/lovecord
 cd lovecord
 pnpm install
 pnpm build
